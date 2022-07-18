@@ -1,0 +1,15 @@
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\bin\Debug\net6.0\MiniProject1.exe
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\bin\Debug\net6.0\MiniProject1.deps.json
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\bin\Debug\net6.0\MiniProject1.runtimeconfig.json
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\bin\Debug\net6.0\MiniProject1.dll
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\bin\Debug\net6.0\MiniProject1.pdb
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\obj\Debug\net6.0\MiniProject1.csproj.AssemblyReference.cache
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\obj\Debug\net6.0\MiniProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\obj\Debug\net6.0\MiniProject1.AssemblyInfoInputs.cache
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\obj\Debug\net6.0\MiniProject1.AssemblyInfo.cs
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\obj\Debug\net6.0\MiniProject1.csproj.CoreCompileInputs.cache
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\obj\Debug\net6.0\MiniProject1.dll
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\obj\Debug\net6.0\refint\MiniProject1.dll
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\obj\Debug\net6.0\MiniProject1.pdb
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\obj\Debug\net6.0\MiniProject1.genruntimeconfig.cache
+C:\Users\cengi\OneDrive\Masaüstü\C#\MiniProject1\obj\Debug\net6.0\ref\MiniProject1.dll
