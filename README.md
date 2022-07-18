@@ -1,1 +1,1 @@
-# C# first mini project
+# C# Mini Project 1
